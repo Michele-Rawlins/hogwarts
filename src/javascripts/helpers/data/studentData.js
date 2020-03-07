@@ -173,8 +173,7 @@ const students = [
     picture: 'https://vignette.wikia.nocookie.net/harrypotter/images/2/25/Cedric-Diggory-cedric-diggory-2719265-1842-2560.jpg/revision/latest?cb=20140619192245',
     houseId: 'house4',
   },
- ;
- 
- const getStudents = () => students;
- 
- export default { getStudents };
+];
+
+const getStudents = () => students;
+export default { getStudents };
